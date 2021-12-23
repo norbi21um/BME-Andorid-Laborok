@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkplaceApp</string>
+    <string name="profile_menu">Profile</string>
+    <string name="holiday">Holiday</string>
+    <string name="payment">Payment</string>
+    <string name="cafeteria">Cafeteria</string>
+    <string name="take_holiday">Take Holiday</string>
+</resources>
